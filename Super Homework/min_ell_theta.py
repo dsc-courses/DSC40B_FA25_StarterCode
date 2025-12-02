@@ -1,8 +1,8 @@
-def min_ell_theta(data, colors, cstar):
+def learn_theta(data, colors):
     '''
-    Finds theta that minimizes the loss function L(theta) for sorted data.
+    Finds theta that is larger than all blue and less than all red.
     '''
-    # TODO: Implement the min_ell_theta function
+    # TODO: Implement the learn_theta function
     return None
 
 
